@@ -14,7 +14,7 @@ pkg install git
 
 npm install -g bash-obfuscate
 
-git clone https://github.com/manojjjakhad/enc-dec-shell
+git clone https://github.com/manojjakhad/enc-dec-shell
 
 cd
 
